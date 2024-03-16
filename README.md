@@ -1,2 +1,2 @@
 # DailyDiary
-일기
+![]()
