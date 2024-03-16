@@ -1,7 +1,7 @@
 # MonthList
 
-* [March](https://github.com/BangYunseo/DailyDiary/blob/main/2024/March(03).md)
-* [April](https://github.com/BangYunseo/DailyDiary/blob/main/2024/April(04).md)
+* [March](https://github.com/BangYunseo/DailyDiary/tree/main/2024/March)
+* [April](https://github.com/BangYunseo/DailyDiary/tree/main/2024/April)
 * [May]()
 * [June]()
 * [July]()
