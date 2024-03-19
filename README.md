@@ -1,5 +1,6 @@
 # DailyDiary
 * 하루 정리하는 일기장
+* 양심적으로 5줄 이상으로 쓰자
 
 <details>
     <summary>YEAR</summary>
