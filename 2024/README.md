@@ -1,5 +1,7 @@
 <details>
-    <summary>List</summary>
+    <summary>
+        list
+    </summary>
 
 * [March](https://github.com/BangYunseo/DailyDiary/tree/main/2024/March)
 * [April](https://github.com/BangYunseo/DailyDiary/tree/main/2024/April)
