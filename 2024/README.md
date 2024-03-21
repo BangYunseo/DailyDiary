@@ -1,6 +1,6 @@
 <details>
     <summary>
-        list
+        Month List
     </summary>
 
 * [March](https://github.com/BangYunseo/DailyDiary/tree/main/2024/March)
